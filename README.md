@@ -47,10 +47,32 @@ AWS · Docker · XAMPP
 ## 📬 Let’s Connect
 
 - 💡 Sharing thoughts on **#Solidity, #Security, #Web3, and #Tech**
-[![X](https://cdn-icons-png.flaticon.com/512/3670/3670151.png)](https://x.com/mahima_thacker)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/mahima-thacker-b696b1217/)
-[![Warpcast](https://cdn-icons-png.flaticon.com/512/14037/14037515.png)](https://warpcast.com/mahima_thacker)
-[![Lens Protocol](https://raw.githubusercontent.com/lens-protocol/brand-kit/main/logo/png/lens-logo-icon-dark.png)](https://hey.xyz/u/mahima)
+<p align="left">
+  <!-- X -->
+  <a href="https://x.com/mahima_thacker" target="_blank">
+    <img src="https://i.imgur.com/A3XPL1J.png" alt="X" width="30" />
+  </a>&nbsp;
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mahima-thacker-b696b1217/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
+  </a>&nbsp;
+  
+  <!-- Warpcast (using Farcaster icon) -->
+  <a href="https://warpcast.com/mahima_thacker" target="_blank">
+      <img src="https://i.imgur.com/MpKLLY1.png" alt="Warpcast" width="30" />
+  </a>&nbsp;
+  
+  <!-- Lens Protocol (replaced with static PNG) -->
+  <a href="https://hey.xyz/u/mahima" target="_blank">
+    <img src="https://hey-assets.b-cdn.net/images/app-icon/0.png" alt="Lens" width="30" />
+  </a>&nbsp;
+  
+  <!-- Gmail -->
+  <a href="mailto:mahimathacker75@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="30" />
+  </a>
+</p>
 
 
 ---
