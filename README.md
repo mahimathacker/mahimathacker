@@ -7,7 +7,7 @@
 
 -   7+ Web3 Hackathon Wins | Full Stack Developer | Web3 Developer | SheFi Graduate | Member of Developer DAO | Filecoin Orbit | H.E.R DAO | Cryfrin Student
 
-## 🧠 About Me
+## 🙋🏻‍♀️ About Me
 
 Alongside my Bachelor's in Engineering, I'm working with the **CodeCrunch** team to learn and build in Web3. I started coding at 16, and for the last 3 years, I’ve been actively building DApps using **Chainlink**, **The Graph**, **Filecoin**, **XMTP**, and other Ethereum ecosystem protocols.
 
@@ -16,6 +16,8 @@ I'm a student of **Cryfrin Updraft**, currently diving deeper into **smart contr
 I'm also passionate about making **Web3 education accessible** — I regularly share my learnings across social media.  
 
 ---
+
+## 🛠️ Tech I Work With
 
 ### 💻 Languages & Frameworks
 
@@ -73,9 +75,9 @@ I'm also passionate about making **Web3 education accessible** — I regularly s
 
 ## 🌱 Communities & Learning
 
-- 🎓 **SheFi Graduate**  
+- 🎓 **SheFi11 Graduate**  
 - 🌐 **Developer DAO Member**
-- 🙋🏻‍♀️ **H.E.R DAO Member**
+- 👩🏻‍💻 **H.E.R DAO Member**
 - 🛰️ **Filecoin Orbit Member**  
 - 🔐 **Cryfrin Updraft Security Student**  
 - 🏗️ **ETHGlobal Builder**
