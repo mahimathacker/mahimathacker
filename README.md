@@ -51,6 +51,8 @@ I'm also passionate about making **Web3 education accessible** — I regularly s
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-9E79FF?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### ⛓️ Web3 & Blockchain
 
