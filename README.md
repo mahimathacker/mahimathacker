@@ -5,7 +5,7 @@
 
 
 
--   7+ Web3 Hackathon Wins | Full Stack Developer | Web3 Developer | SheFi Graduate | Member of Developer DAO | Filecoin Orbit | H.E.R DAO | Cryfrin Student
+-   7+ Web3 Hackathon Wins | Full Stack Developer | Web3 Developer | SheFi Graduate | Member of Developer DAO | Filecoin Orbit | H.E.R DAO | Ambassador at Cyfrin
 
 ## 🙋🏻‍♀️ About Me
 
