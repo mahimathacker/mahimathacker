@@ -13,7 +13,7 @@ Alongside my Bachelor's in Engineering, I'm working with the **CodeCrunch** team
 
 I'm a student of **Cryfrin Updraft**, currently diving deeper into **smart contract security** and auditing.  
 
-I'm also passionate about making **Web3 education accessible** — I regularly share my learnings across social media.  
+I'm also passionate about making **Web3 education accessible.** I regularly share my learnings across social media.  
 
 ---
 
