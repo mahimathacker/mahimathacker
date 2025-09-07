@@ -5,7 +5,7 @@
 
 
 
--   7+ Web3 Hackathon Wins | Full Stack Developer | Web3 Developer | SheFi Graduate | Member of Developer DAO | Filecoin Orbit | H.E.R DAO | Ambassador at Cyfrin
+-   7+ Web3 Hackathon Wins | Full Stack Developer | Web3 Developer | SheFi Graduate | Member of Developer DAO | Filecoin Orbit | Ambassador at Cyfrin and H.E.R DAO | Contributor at @AvaxTeam1
 
 ## 🙋🏻‍♀️ About Me
 
