@@ -27,7 +27,7 @@ I'm also passionate about making **Web3 education accessible.** I regularly shar
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-[Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor
+[Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
 
 ### 🎨 Frontend
