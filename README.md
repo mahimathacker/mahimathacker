@@ -9,9 +9,7 @@
 
 ## 🙋🏻‍♀️ About Me
 
-Alongside my Bachelor's in Engineering, I'm working with the **CodeCrunch** team to learn and build in Web3. I started coding at 16, and for the last 4 years, I’ve been actively building DApps using **Chainlink**, **The Graph**, **Filecoin**, **XMTP**, and other Ethereum ecosystem protocols.
-
-I'm a student of **Cryfrin Updraft**, currently diving deeper into **smart contract security** and auditing.  
+Alongside my Bachelor's in Engineering, I'm working with the **CodeCrunch** team to learn and build in Web3. I started coding at 16, and for the last 4 years, I’ve been actively building DApps, winning hackathons, and pushing the boundaries of what's possible onchain 
 
 I'm also passionate about making **Web3 education accessible.** I regularly share my learnings across social media.  
 
