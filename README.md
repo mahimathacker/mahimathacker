@@ -95,7 +95,7 @@ I'm also passionate about making **Web3 education accessible.** I regularly shar
   
 ## 📬 Let’s Connect
 
-💡 Sharing thoughts on **#Solidity, #Security, #Web3, and #Tech**
+💡 Sharing thoughts on **#Solidity, #Security, #Rust, #Web3, and #Tech**
 <div align="left"> <a href="https://x.com/mahima_thacker" target="_blank" title="X (Twitter)"> <img src="https://i.imgur.com/A3XPL1J.png" alt="X" width="32" /> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mahima-thacker-b696b1217/" target="_blank" title="LinkedIn"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" /> </a>&nbsp;&nbsp; <a href="https://warpcast.com/mahima_thacker" target="_blank" title="Warpcast"> <img src="https://i.imgur.com/MpKLLY1.png" alt="Warpcast" width="32" /> </a>&nbsp;&nbsp; <a href="https://hey.xyz/u/mahima" target="_blank" title="Lens Protocol"> <img src="https://hey-assets.b-cdn.net/images/app-icon/0.png" alt="Lens" width="32" /> </a>&nbsp;&nbsp; <a href="mailto:mahimathacker75@gmail.com" target="_blank" title="Email"> <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="32" /> </a> </div>
 
 
