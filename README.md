@@ -130,6 +130,7 @@ I care about making complex technologies easier to build with. Whether I am ship
 
 - 🔐 **Cyfrin Ambassador**
 - 🏗️ **ETHGlobal Mentor & Builder**
+- 🎒 **Dev3Pack Mentor**
 - 🌙 **Midnight Ambassador** - Privacy-first blockchain advocacy
 - 🎓 **DevRel Uni Cohort 7**
 - 🎓 **SheFi11 Graduate**
@@ -157,7 +158,7 @@ I care about making complex technologies easier to build with. Whether I am ship
     <img src="https://i.imgur.com/MpKLLY1.png" alt="Warpcast" width="32" />
   </a>&nbsp;&nbsp;
   <a href="https://hey.xyz/u/mahima" target="_blank" title="Lens Protocol">
-    <img src="https://hey-assets.b-cdn.net/images/app-icon/0.png" alt="Lens" width="32" />
+    <img src="https://img.shields.io/badge/Lens-ABFE2C?style=flat-square&logoColor=black" alt="Lens" height="32" />
   </a>&nbsp;&nbsp;
   <a href="mailto:mahimathacker75@gmail.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="32" />
