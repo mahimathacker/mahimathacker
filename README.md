@@ -4,7 +4,7 @@
 **mahimathacker/mahimathacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Full-Stack Engineer | Web3 X AI | Developer Educator | Technical Writer | 7+ Web3 Hackathon Wins | Cyfrin Ambassador | ETHGlobal Mentor | SheFi Graduate | Contributor at @AvaxTeam1
+- Full-Stack Engineer | Web3 X AI | Developer Educator | Technical Writer | 7+ Web3 Hackathon Wins | Cyfrin Ambassador | ETHGlobal and Dev3Pack Mentor | SheFi Graduate | Contributor at @AvaxTeam1
 
 ## 🙋🏻‍♀️ About Me
 
