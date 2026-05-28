@@ -39,6 +39,33 @@ I care about making complex technologies easier to build with. Whether I am ship
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 🤖 AI & Automation
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-191919?style=for-the-badge)
+![MCP Inspector](https://img.shields.io/badge/MCP_Inspector-111827?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge)
+![LangChain Experiments](https://img.shields.io/badge/LangChain_Experiments-1C3C3C?style=for-the-badge)
+![OpenClaw Basics](https://img.shields.io/badge/OpenClaw_Basics-4B5563?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EE601E?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Local AI](https://img.shields.io/badge/Local_AI-374151?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0F766E?style=for-the-badge)
+![Tool Use Workflows](https://img.shields.io/badge/Tool_Use_Workflows-9333EA?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![OpenAI Embeddings](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-0F766E?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0F172A?style=for-the-badge)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI Developer Tools](https://img.shields.io/badge/AI_Developer_Tools-2563EB?style=for-the-badge)
+![Codebase Understanding](https://img.shields.io/badge/Codebase_Understanding-7C3AED?style=for-the-badge)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-DC2626?style=for-the-badge)
+
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,6 +87,8 @@ I care about making complex technologies easier to build with. Whether I am ship
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-9E79FF?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+![API Integrations](https://img.shields.io/badge/API_Integrations-0F766E?style=for-the-badge)
 
 ### ☁️ DevOps & Tools
 
@@ -82,6 +111,10 @@ I care about making complex technologies easier to build with. Whether I am ship
 ![Static Site Generators](https://img.shields.io/badge/Static_Site_Generators-64748B?style=for-the-badge)
 ![NPM Docs](https://img.shields.io/badge/NPM_Package_Docs-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docs as Code](https://img.shields.io/badge/Docs_as_Code-111827?style=for-the-badge)
+![Technical Diagrams](https://img.shields.io/badge/Technical_Diagrams-475569?style=for-the-badge)
+![Code Samples](https://img.shields.io/badge/Code_Samples-1D4ED8?style=for-the-badge)
+![Developer Onboarding](https://img.shields.io/badge/Developer_Onboarding-9333EA?style=for-the-badge)
+![API Documentation](https://img.shields.io/badge/API_Documentation-0891B2?style=for-the-badge)
 
 ### ⛓️ Blockchain & Web3
 
@@ -106,23 +139,10 @@ I care about making complex technologies easier to build with. Whether I am ship
 ![Developer Education](https://img.shields.io/badge/Developer_Education-7C3AED?style=for-the-badge)
 ![Community Building](https://img.shields.io/badge/Community_Building-059669?style=for-the-badge)
 ![Workshop Facilitation](https://img.shields.io/badge/Workshop_Facilitation-EA580C?style=for-the-badge)
-
-### 🤖 AI & Automation
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-6C5CE7?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-191919?style=for-the-badge)
-![MCP Inspector](https://img.shields.io/badge/MCP_Inspector-111827?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge)
-![LangChain Experiments](https://img.shields.io/badge/LangChain_Experiments-1C3C3C?style=for-the-badge)
-![OpenClaw Basics](https://img.shields.io/badge/OpenClaw_Basics-4B5563?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EE601E?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Local AI](https://img.shields.io/badge/Local_AI-374151?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Function_Calling-0F766E?style=for-the-badge)
-![Tool Use Workflows](https://img.shields.io/badge/Tool_Use_Workflows-9333EA?style=for-the-badge)
+![Demo Building](https://img.shields.io/badge/Demo_Building-2563EB?style=for-the-badge)
+![Developer Onboarding](https://img.shields.io/badge/Developer_Onboarding-9333EA?style=for-the-badge)
+![Product Feedback](https://img.shields.io/badge/Product_Feedback-16A34A?style=for-the-badge)
+![DevTool Content](https://img.shields.io/badge/DevTool_Content-EA580C?style=for-the-badge)
 
 ---
 
