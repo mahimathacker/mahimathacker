@@ -47,7 +47,7 @@ I care about making complex technologies easier to build with. Whether I am ship
 ![MCP Inspector](https://img.shields.io/badge/MCP_Inspector-111827?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge)
-![LangChain Experiments](https://img.shields.io/badge/LangChain_Experiments-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain_Experiments-1C3C3C?style=for-the-badge)
 ![OpenClaw Basics](https://img.shields.io/badge/OpenClaw_Basics-4B5563?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EE601E?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
